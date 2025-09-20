@@ -61,8 +61,6 @@ The workflow supports various ocean regions:
 - `atlantic` - Atlantic Ocean
 - `pacific` - Pacific Ocean 
 - `indian` - Indian Ocean
-- `arctic` - Arctic Ocean
-- `southern` - Southern Ocean
 
 Simply run the main script and follow the prompts:
 
